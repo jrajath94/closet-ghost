@@ -57,7 +57,7 @@ The ghost character has three tools it can invoke during conversation:
 
 | Layer | Technology |
 |-------|-----------|
-| Framework | Next.js 15, React 19, TypeScript |
+| Framework | Next.js 16.2.2, React 19, TypeScript |
 | Styling | Tailwind CSS v4 |
 | Avatar SDK | `@runwayml/avatars-react` (WebRTC via LiveKit) |
 | Server SDK | `@runwayml/sdk` (session management, image generation) |
@@ -70,7 +70,7 @@ The ghost character has three tools it can invoke during conversation:
 **The Closet Ghost** is a centuries-old Parisian couturier who died in the 1800s and has been haunting wardrobes ever since. The character was designed with:
 
 - **Personality prompt** defining theatrical delivery, French fashion vocabulary, specific critique patterns, and tool-calling behavior
-- **Knowledge base** covering 20+ style archetypes with full outfit descriptions, color theory, fit principles, fabric guides, fashion history, and brand references
+- **Knowledge base** covering 8 style archetypes with full outfit descriptions, color theory, fit principles, fabric guides, fashion history, and brand references
 - **Voice** set to the Victoria preset for a firm, professional tone that gives authority to the roasts
 - **Visual design** as a stylized ghost with monocle, beret, and Victorian cape, created in Nano Banana and processed by Runway's avatar pipeline
 
