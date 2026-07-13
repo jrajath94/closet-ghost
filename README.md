@@ -63,14 +63,14 @@ The ghost character has three tools it can invoke during conversation:
 | Server SDK | `@runwayml/sdk` (session management, image generation) |
 | Character Model | GWM-1 Avatars (real-time) |
 | Image Model | gen4_image_turbo |
-| Knowledge Base | Runway Documents API (fashion expertise, 50K token context) |
+| Knowledge Base | fashion-knowledge.md (fashion expertise, style archetypes) |
 
 ## Character Design
 
 **The Closet Ghost** is a centuries-old Parisian couturier who died in the 1800s and has been haunting wardrobes ever since. The character was designed with:
 
-- **Personality prompt** (2,000 chars) defining theatrical delivery, French fashion vocabulary, specific critique patterns, and tool-calling behavior
-- **Knowledge base** (50K tokens) covering 20+ style archetypes with full outfit descriptions, color theory, fit principles, fabric guides, fashion history, and brand references
+- **Personality prompt** defining theatrical delivery, French fashion vocabulary, specific critique patterns, and tool-calling behavior
+- **Knowledge base** covering 20+ style archetypes with full outfit descriptions, color theory, fit principles, fabric guides, fashion history, and brand references
 - **Voice** set to the Victoria preset for a firm, professional tone that gives authority to the roasts
 - **Visual design** as a stylized ghost with monocle, beret, and Victorian cape, created in Nano Banana and processed by Runway's avatar pipeline
 
@@ -105,7 +105,7 @@ npm run dev
 ### Creating Your Own Avatar
 
 ```bash
-# Automated setup (uploads image + creates avatar + attaches knowledge base)
+# Automated setup (uploads image + creates avatar)
 npx tsx scripts/setup-avatar.ts
 ```
 
@@ -140,7 +140,7 @@ closet-ghost/
 
 ## API Usage
 
-Each 5-minute ghost session costs approximately $1.02 (2 credits upfront + 2 credits per 6 seconds). Image generation via gen4_image_turbo costs $0.02 per image.
+This project uses Runway's Character API and image generation APIs. Refer to [Runway's pricing documentation](https://runwayml.com/pricing) for current cost details.
 
 ## Acknowledgments
 
