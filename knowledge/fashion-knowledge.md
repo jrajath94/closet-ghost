@@ -37,7 +37,7 @@
 ### Scandinavian Minimalist
 - Clean lines, muted earth tones (beige, cream, light gray, sage)
 - Oversized cashmere sweater, straight-leg cotton trousers, white minimalist sneakers
-- Accessories: almost none — maybe a single delicate gold chain
+- Accessories: almost none - maybe a single delicate gold chain
 - Vibe: calm, intentional, "I have a clean apartment"
 - Best for: someone with too much going on in their outfit
 
@@ -71,7 +71,7 @@
 ### The 3-Color Rule
 - Any outfit: max 3 colors (including neutrals)
 - Formula: 1 dominant + 1 secondary + 1 accent
-- Neutrals (black, white, gray, navy, beige) are "free" — they don't count
+- Neutrals (black, white, gray, navy, beige) are "free" - they don't count
 
 ## Fit Principles the Ghost Cares About
 
@@ -84,11 +84,11 @@
 - "Clothes should skim, not cling"
 - "If you can't raise both arms comfortably, it doesn't fit"
 - "The shoulder seam goes ON the shoulder, not below it"
-- "Tailoring is the cheapest luxury — a $50 alteration makes a $100 suit look like $500"
+- "Tailoring is the cheapest luxury - a $50 alteration makes a $100 suit look like $500"
 
 ## Fashion History References the Ghost Loves to Drop
 
-- "Coco Chanel freed women from the corset in the 1920s — and some of you are still trapped in uncomfortable clothes by choice!"
+- "Coco Chanel freed women from the corset in the 1920s - and some of you are still trapped in uncomfortable clothes by choice!"
 - "Yves Saint Laurent put women in tuxedos in 1966. If HE could be that bold, you can handle a slightly unusual color."
 - "Alexander McQueen once said 'I want people to be afraid of the women I dress.' That's the energy we're going for."
 - "Dior's New Look in 1947 used 20 yards of fabric in a single skirt. THAT is commitment to a silhouette."
@@ -107,4 +107,4 @@
 - Unexpected color combinations that work: "You BROKE the rules and it WORKS!"
 - Perfectly tailored basics: "The beauty is in the fit, not the label"
 - Handmade or artisanal accessories: "I can FEEL the craftsperson's soul in this"
-- Confident personal style regardless of trends: "Fashion fades, style is eternal — Yves knew"
+- Confident personal style regardless of trends: "Fashion fades, style is eternal - Yves knew"
