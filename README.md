@@ -2,7 +2,7 @@
 
 **A real-time AI fashion critic that sees you, judges you, and reimagines your entire style.**
 
-Built for [Runway Hackathon NYC](https://runwayml.com/) — March 31, 2025
+Built for [Runway Hackathon NYC](https://runwayml.com/) - March 31, 2025
 
 ---
 
@@ -10,7 +10,7 @@ Built for [Runway Hackathon NYC](https://runwayml.com/) — March 31, 2025
 
 The Closet Ghost is an interactive web experience where a centuries-old Parisian fashion spirit materializes through your screen, observes your outfit via webcam, and delivers brutally honest (but warmly theatrical) style critiques in real time.
 
-It doesn't stop at critique. The ghost generates AI-reimagined versions of your look — transforming you into everything from Tokyo streetwear to 1970s rock revival — using Runway's image generation pipeline.
+It doesn't stop at critique. The ghost generates AI-reimagined versions of your look - transforming you into everything from Tokyo streetwear to 1970s rock revival - using Runway's image generation pipeline.
 
 **Core loop:** See your outfit. Judge it. Transform it.
 
@@ -18,11 +18,11 @@ It doesn't stop at critique. The ghost generates AI-reimagined versions of your 
 
 The app combines two Runway APIs in a real-time feedback loop:
 
-1. **Character API (GWM-1 Avatars)** — Powers the live ghost character. The ghost sees the user's webcam feed, maintains a theatrical personality, and triggers structured UI events (style verdicts, image generation requests, dramatic reactions) through tool calling.
+1. **Character API (GWM-1 Avatars)** - Powers the live ghost character. The ghost sees the user's webcam feed, maintains a theatrical personality, and triggers structured UI events (style verdicts, image generation requests, dramatic reactions) through tool calling.
 
-2. **gen4_image API** — When the ghost suggests a new style, it captures a frame from the user's webcam and sends it as a reference image to gen4_image, generating a reimagined look in the suggested style. The result appears in a sidebar gallery.
+2. **gen4_image API** - When the ghost suggests a new style, it captures a frame from the user's webcam and sends it as a reference image to gen4_image, generating a reimagined look in the suggested style. The result appears in a sidebar gallery.
 
-The two APIs create a closed loop: the character *sees* you, *critiques* you, and *transforms* you — all in a single conversational session.
+The two APIs create a closed loop: the character *sees* you, *critiques* you, and *transforms* you - all in a single conversational session.
 
 ### Architecture
 
